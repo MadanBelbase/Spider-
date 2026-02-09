@@ -1,3 +1,5 @@
+**🕷️ SPIDER: THE AETHER**
+
 **Project Overview :** 
 This web interface provides real-time control and monitoring for a spider robot built with,
 
