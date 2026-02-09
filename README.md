@@ -6,7 +6,7 @@ One Smoke Sensor - Air quality monitoring
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Traditional safety and monitoring systems are limited to fixed locations and cannot operate in dangerous or inaccessible areas.  
 **SPIDER: THE AETHER** overcomes this limitation by acting as a **mobile sensing platform** capable of autonomous navigation and environmental monitoring.
@@ -18,6 +18,14 @@ The robot continuously monitors:
 - Obstacles (front & rear)
 
 This reduces human exposure to dangerous environments and enables faster hazard detection.
+
+---
+##  Contributors
+
+- **Ishbarna Kafle**
+- **Abishek Khadka**
+- **Madan Belbase**
+- **Sunny Rauniyar**
 
 ---
 
