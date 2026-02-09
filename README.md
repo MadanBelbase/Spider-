@@ -4,10 +4,20 @@
 SPIDER: THE AETHER is an **ESP32-based autonomous robotic system** designed to navigate hazardous and inaccessible environments, perform real-time environmental sensing, and assist in **search, assessment, and emergency response operations**.
 One Smoke Sensor - Air quality monitoring
 
-**Project Team Members and Contributors:**
-1. Abishek Khadka 
-2. Ishbarna Kafle
-3. Madan Belbase
-4. Sunny Rauniyar
+---
 
+## 📌 Project Overview
+
+Traditional safety and monitoring systems are limited to fixed locations and cannot operate in dangerous or inaccessible areas.  
+**SPIDER: THE AETHER** overcomes this limitation by acting as a **mobile sensing platform** capable of autonomous navigation and environmental monitoring.
+
+The robot continuously monitors:
+- Smoke / gas
+- Temperature & humidity
+- Light intensity
+- Obstacles (front & rear)
+
+This reduces human exposure to dangerous environments and enables faster hazard detection.
+
+---
 
