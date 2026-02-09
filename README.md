@@ -1,14 +1,7 @@
-**🕷️ SPIDER: THE AETHER**
+# 🕷️ SPIDER: THE AETHER  
+### Autonomous Disaster-Response & Environmental Monitoring Robot
 
-**Project Overview :** 
-This web interface provides real-time control and monitoring for a spider robot built with,
-
-ESP32 Microcontroller - Main controller unit
-
-Two Ultrasonic Sensors - Front and rear distance measurement
-
-Four Servo Motors - Leg movement control
-
+SPIDER: THE AETHER is an **ESP32-based autonomous robotic system** designed to navigate hazardous and inaccessible environments, perform real-time environmental sensing, and assist in **search, assessment, and emergency response operations**.
 One Smoke Sensor - Air quality monitoring
 
 **Project Team Members and Contributors:**
